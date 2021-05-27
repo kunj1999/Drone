@@ -1,0 +1,9 @@
+.metadata
+Drone/Debug
+Drone/.cproject
+Drone/.mxproject
+Drone/.project
+Drone/Drone.cfg
+Drone/Drone.launch
+Drone/STM32F446RETX_FLASH.ld
+Drone/STM32F446RETX_RAM.ld
